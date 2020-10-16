@@ -10,11 +10,12 @@
 
 /* basic elements */
 html {
+	font-family: 'Star Jedi', arial;
 	margin: 0;
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
+	font: 75% 'Star Jedi';
 	line-height: 1.88889;
 	color: #555753; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
