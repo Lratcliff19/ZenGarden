@@ -32,6 +32,8 @@ body {
 p { 
 	margin-top: 0; 
 	text-align: justify;
+	background: #fff url("Space.jpeg") no-repeat bottom right; 
+
 	}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
