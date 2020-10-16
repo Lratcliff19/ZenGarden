@@ -9,6 +9,12 @@
 
 
 /* basic elements */
+@font-face
+{
+	font-family: 'Star Jedi', arial;
+	src: url(star-jedi_[allfont.net].ttf)
+}
+
 html {
 	font-family: 'Star Jedi', arial;
 	margin: 0;
