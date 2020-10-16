@@ -19,20 +19,20 @@ html {
 	font: normal 'Star Jedi';
 	margin: 0;
 	padding: 0;
-	background: #fff url("Space.jpeg") no-repeat bottom right; 
+	background: #fff url("Space.png") no-repeat bottom right; 
 	}
 body { 
 	font: 75% 'Star Jedi';
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url("Space.jpeg") no-repeat bottom right; 
+	background: #fff url("Space.png") no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
 p { 
 	margin-top: 0; 
 	text-align: justify;
-	background: #fff url("Space.jpeg") no-repeat bottom right; 
+	background: #fff url("Space.png") no-repeat bottom right; 
 
 	}
 h3 { 
@@ -40,16 +40,22 @@ h3 {
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #7D775C;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
 	color: #B7A5DF;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
 	color: #D4CDDC;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
@@ -57,6 +63,8 @@ a:hover, a:focus, a:active {
 	}
 abbr {
 	border-bottom: none;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 
 
@@ -66,11 +74,15 @@ abbr {
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 
 .intro { 
 	min-width: 470px;
 	width: 100%;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 
 header h1 { 
@@ -80,6 +92,7 @@ header h1 {
 	width: 219px;
 	height: 87px;
 	float: left;
+	background: #fff url("Space.png") no-repeat bottom right; 
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -91,7 +104,9 @@ header h2 {
 	margin-bottom: 40px; 
 	width: 200px; 
 	height: 18px; 
-	float: right;
+	float: right;	
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -100,6 +115,8 @@ header h2 {
 header {
 	padding-top: 20px;
 	height: 87px;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 }
 
 .summary {
@@ -107,31 +124,45 @@ header {
 	margin: 20px 20px 20px 10px; 
 	width: 160px; 
 	float: left;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 .summary p {
 	font: italic 1.1em/2.2 georgia; 
 	text-align: center;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 
 .preamble {
 	clear: right; 
 	padding: 0px 10px 0 10px;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 .supporting {	
 	padding-left: 10px; 
 	margin-bottom: 40px;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 
 footer { 
 	text-align: center; 
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 footer a:link, footer a:visited { 
 	margin-right: 20px; 
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 
 .sidebar {
 	margin-left: 600px; 
 	position: absolute; 
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	top: 0; 
 	right: 0;
 	}
@@ -139,7 +170,9 @@ footer a:link, footer a:visited {
 	font: 10px verdana, sans-serif; 
 	background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat-y; 
 	padding: 10px; 
-	margin-top: 150px; 
+	margin-top: 150px;
+	background: #fff url("Space.png") no-repeat bottom right; 
+ 
 	width: 130px; 
 	}
 .sidebar h3.select { 
@@ -147,6 +180,8 @@ footer a:link, footer a:visited {
 	margin: 10px 0 5px 0; 
 	width: 97px; 
 	height: 16px; 
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -157,6 +192,8 @@ footer a:link, footer a:visited {
 	margin: 25px 0 5px 0; 
 	width:57px; 
 	height: 14px; 
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -167,6 +204,8 @@ footer a:link, footer a:visited {
 	margin: 25px 0 5px 0; 
 	width:63px; 
 	height: 10px; 
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -177,6 +216,8 @@ footer a:link, footer a:visited {
 .sidebar ul {
 	margin: 0;
 	padding: 0;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 .sidebar li {
 	line-height: 1.3em; 
@@ -185,12 +226,18 @@ footer a:link, footer a:visited {
 	padding-top: 5px; 
 	margin-bottom: 5px;
 	list-style-type: none;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 .sidebar li a:link {
 	color: #988F5E;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 .sidebar li a:visited {
 	color: #B3AE94;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
 
 
@@ -201,4 +248,6 @@ footer a:link, footer a:visited {
 	right: 0; 
 	width: 148px; 
 	height: 110px;
+	background: #fff url("Space.png") no-repeat bottom right; 
+
 	}
