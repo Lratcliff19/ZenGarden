@@ -16,9 +16,10 @@
 }
 
 html {
-	font: 'Star Jedi';
+	font: normal 'Star Jedi';
 	margin: 0;
 	padding: 0;
+	background: #fff url("Space.jpeg") no-repeat bottom right; 
 	}
 body { 
 	font: 75% 'Star Jedi';
