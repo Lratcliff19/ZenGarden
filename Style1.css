@@ -81,7 +81,8 @@ div
 	}
 
 header h1 { 
-	background: url("Space.png") no-repeat bottom right; 
+	background: url(http://csszengarden.com/001/h1.gif
+	) no-repeat bottom right; 
 	margin-top: 10px;
 	display: block;
 	width: 219px;
@@ -93,7 +94,7 @@ header h1 {
 	overflow: hidden;
 	}
 header h2 { 
-	background: url("Space.png") no-repeat bottom right; 
+
 	margin-top: 58px; 
 	margin-bottom: 40px; 
 	width: 200px; 
